@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding-bottom: 500px;
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+/* 5 - Classe dinamica */
+.red-title {
+  font-size: 50px;
+  color: red;
+  background-color: #222;
+}
+
+.blue-title {
+  font-size: 50px;
+  color: blue;
+  background-color: #222;
+}
